@@ -21,5 +21,7 @@ http://markshust.com/2013/11/07/creating-nodejs-server-client-socket-io-mysql
 ##MySQL
 
  * Installation 
-   * https://dev.mysql.com/doc/refman/5.6/en/osx-installation-pkg.html 
-http://markshust.com/2013/11/07/creating-nodejs-server-client-socket-io-mysql
+   * https://dev.mysql.com/doc/refman/5.6/en/osx-installation-pkg.html
+ * Working with:
+   * Node
+     * http://markshust.com/2013/11/07/creating-nodejs-server-client-socket-io-mysql
