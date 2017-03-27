@@ -21,7 +21,10 @@ A list of tutorials to try in your spare time
 https://socket.io/docs/
 
 ## Node 
-http://markshust.com/2013/11/07/creating-nodejs-server-client-socket-io-mysql
+ * Tutorials
+   * http://markshust.com/2013/11/07/creating-nodejs-server-client-socket-io-mysql
+ * Tools
+   * https://www.npmjs.com/package/nodemon
 
 
 ## MySQL
