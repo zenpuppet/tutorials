@@ -22,7 +22,7 @@ A list of tutorials to try in your spare time
 http://markshust.com/2013/11/07/creating-nodejs-server-client-socket-io-mysql
 
 
-##MySQL
+## MySQL
 
  * Installation 
    * https://dev.mysql.com/doc/refman/5.6/en/osx-installation-pkg.html
