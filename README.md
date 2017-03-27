@@ -16,7 +16,9 @@ A list of tutorials to try in your spare time
      * Socket.io
        * http://4dev.tech/2016/02/creating-a-live-auction-app-with-angular-2-node-js-and-socket-io/
 
+## Socket.io
 
+https://socket.io/docs/
 
 ## Node 
 http://markshust.com/2013/11/07/creating-nodejs-server-client-socket-io-mysql
