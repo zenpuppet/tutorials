@@ -6,6 +6,8 @@ A list of tutorials to try in your spare time
 
 ## Docker
 
+ * Tutorials
+   * https://prakhar.me/docker-curriculum/
 
 ## Angular 2
 
