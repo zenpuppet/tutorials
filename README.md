@@ -12,6 +12,7 @@ A list of tutorials to try in your spare time
 ## Angular 2
 
  * Getting Started
+   * https://www.sitepoint.com/angular-2-tutorial/
    * **Working with**:
      * Socket.io
        * http://4dev.tech/2016/02/creating-a-live-auction-app-with-angular-2-node-js-and-socket-io/
