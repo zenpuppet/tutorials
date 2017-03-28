@@ -23,6 +23,7 @@ https://socket.io/docs/
 
 ## Node 
  * Tutorials
+   * https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4
    * http://markshust.com/2013/11/07/creating-nodejs-server-client-socket-io-mysql
  * Tools
    * https://www.npmjs.com/package/nodemon
