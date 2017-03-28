@@ -18,8 +18,8 @@ A list of tutorials to try in your spare time
        * http://4dev.tech/2016/02/creating-a-live-auction-app-with-angular-2-node-js-and-socket-io/
 
 ## Socket.io
-
-https://socket.io/docs/
+  * http://stackoverflow.com/questions/18907591/socket-io-server-performance-and-bandwidth-usage
+  * https://socket.io/docs/
 
 ## Node 
  * Tutorials
